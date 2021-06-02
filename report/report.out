@@ -1,0 +1,25 @@
+\BOOKMARK [1][-]{section.1}{Introduction}{}% 1
+\BOOKMARK [1][-]{section.2}{Background Work}{}% 2
+\BOOKMARK [2][-]{subsection.2.1}{Catastrophic Forgetting and Continual Learning}{section.2}% 3
+\BOOKMARK [2][-]{subsection.2.2}{Three Continual Learning Scenarios}{section.2}% 4
+\BOOKMARK [3][-]{subsubsection.2.2.1}{Task-Incremental Learning \(Task-IL\)}{subsection.2.2}% 5
+\BOOKMARK [3][-]{subsubsection.2.2.2}{Domain-Incremental Learning \(Domain-IL\)}{subsection.2.2}% 6
+\BOOKMARK [3][-]{subsubsection.2.2.3}{Class-Incremental Learning \(Class-IL\)}{subsection.2.2}% 7
+\BOOKMARK [2][-]{subsection.2.3}{Strategies for Continual Learning}{section.2}% 8
+\BOOKMARK [3][-]{subsubsection.2.3.1}{Regularization Approaches}{subsection.2.3}% 9
+\BOOKMARK [3][-]{subsubsection.2.3.2}{Replay Approaches}{subsection.2.3}% 10
+\BOOKMARK [1][-]{section.3}{Methodology}{}% 11
+\BOOKMARK [2][-]{subsection.3.1}{Task Protocol}{section.3}% 12
+\BOOKMARK [2][-]{subsection.3.2}{Model Architectures}{section.3}% 13
+\BOOKMARK [3][-]{subsubsection.3.2.1}{Multilayer Perceptron Network}{subsection.3.2}% 14
+\BOOKMARK [3][-]{subsubsection.3.2.2}{Convolutional Neural Network}{subsection.3.2}% 15
+\BOOKMARK [2][-]{subsection.3.3}{Continual Learning Scenarios}{section.3}% 16
+\BOOKMARK [3][-]{subsubsection.3.3.1}{Task-Incremental Learning \(Task-IL\)}{subsection.3.3}% 17
+\BOOKMARK [3][-]{subsubsection.3.3.2}{Aside: Tasks vs. Experiences}{subsection.3.3}% 18
+\BOOKMARK [3][-]{subsubsection.3.3.3}{Domain-Incremental Learning \(Domain-IL\)}{subsection.3.3}% 19
+\BOOKMARK [3][-]{subsubsection.3.3.4}{Class-Incremental Learning \(Class-IL\)}{subsection.3.3}% 20
+\BOOKMARK [2][-]{subsection.3.4}{Strategies}{section.3}% 21
+\BOOKMARK [3][-]{subsubsection.3.4.1}{Naive}{subsection.3.4}% 22
+\BOOKMARK [3][-]{subsubsection.3.4.2}{EWC}{subsection.3.4}% 23
+\BOOKMARK [3][-]{subsubsection.3.4.3}{AGEM}{subsection.3.4}% 24
+\BOOKMARK [1][-]{section.4}{Results and Analysis}{}% 25
