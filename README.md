@@ -11,6 +11,8 @@ complementary learning systems provide significant improvements for memory retri
 consolidation in neural networks, and provide the groundwork for further investigation 
 in to the stability-plasticity dilemma.
 
+[Report found here](https://github.com/christam96/Investigating-Continual-Learning-Strategies-in-Nueral-Networks/blob/main/LaTeX%20Report/report.pdf).
+
 [1] McClelland, James L., Bruce L. McNaughton, and Randall C. O'Reilly. "Why
  there are complementary learning systems in the hippocampus and 
 neocortex: insights from the successes and failures of connectionist 
