@@ -1,6 +1,7 @@
 # Investigating Continual Learning Strategies in Nueral Networks
 
-This paper explores the role of continual learning strategies when neural networks 
+This [paper](https://github.com/christam96/Investigating-Continual-Learning-Strategies-in-Nueral-Networks/blob/main/LaTeX%20Report/report.pdf)
+explores the role of continual learning strategies when neural networks 
 are confronted with the learning tasks sequentially. Our investigation measures
 forgetting with three factors in mind: the type of network architecture used, the
 continual learning scenario defined and the continual learning strategy implemented.
@@ -10,8 +11,6 @@ an essential ingredient in order to achieve lifelong learning. These results sho
 complementary learning systems provide significant improvements for memory retrieval and 
 consolidation in neural networks, and provide the groundwork for further investigation 
 in to the stability-plasticity dilemma.
-
-[Report found here](https://github.com/christam96/Investigating-Continual-Learning-Strategies-in-Nueral-Networks/blob/main/LaTeX%20Report/report.pdf).
 
 [1] McClelland, James L., Bruce L. McNaughton, and Randall C. O'Reilly. "Why
  there are complementary learning systems in the hippocampus and 
