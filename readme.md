@@ -1,6 +1,6 @@
 # Investigating Continual Learning Strategies in Nueral Networks
 
-This [paper](https://github.com/christam96/Investigating-Continual-Learning-Strategies-in-Nueral-Networks/blob/main/LaTeX%20Report/report.pdf)
+This [paper](https://github.com/christam96/Investigating-Continual-Learning-Strategies-in-Nueral-Networks/blob/main/report/report.pdf)
 explores the role of continual learning strategies when neural networks 
 are confronted with the learning tasks sequentially. Our investigation measures
 forgetting with three factors in mind: the type of network architecture used, the
